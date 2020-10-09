@@ -1,0 +1,38 @@
+********************************************************************************
+			FARMER'S FORUM
+********************************************************************************
+
+	  Hi, UNICORN gladly welcomes you!!!
+
+
+  We are here to help you with locating the nearby markets!!
+
+==================================================
+		   	   ABSTRACT
+==================================================
+This application aims in helping the farmers locating
+the wavetable markets around them. For the provided areal 
+pin code, address of the nearby markets will be shown 
+which benefits the farmers in finding and selling their products 
+to the respective markets. In addition to that this application 
+also provides a place for the vendors to provide their market 
+address which will be referred to the farmers in future.
+To continue with the application kindly go through instruction,
+==================================================
+		   	   INSTRUCTIONS
+==================================================
+--> You will be asked to choose whether you wanted to sell the 
+item(Farmer) or register your shop name(vendor)
+--> choose the necessary option
+--> If you wanted to get the markets around you , you will be asked
+to enter the pin-code of the area
+-->Make sure to enter the valid pin-code
+--> Once if the pin-code matches the stored database a window containing
+ the  market addresses around will be displayed
+--> If you are a vendor kindly choose the necessary option
+--> You will be prompted to enter your address details
+--> make sure to enter the valid address
+
+
+You are ready to go now!, click the Next button to continue... 
+
